@@ -94,13 +94,13 @@
 
 @media (max-width:470px){
 	 #nav-bar{flex-direction:column;
-	 			 margin-top:20px;
+	 	  margin-top:20px;
 	 			 padding-bottom:5px;
 	 			 margin-bottom:5px;
 	 			 text-align:right
 	 			}
 	
-	.title{margin-top:230px;}
+	.title{margin-top:210px;}
 	
 	 #nav-bar a{margin-bottom:10px;}
 
